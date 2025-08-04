@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package com.core;
+
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
